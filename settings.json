@@ -1,0 +1,18 @@
+{
+    "0400a101384903":{
+        "id":"soy_sauce_0",
+        "name":"醤油",
+        "event_id":"update_gs_inventory",
+        "cell":"C5",
+        "value":"なし",
+        "note":""
+    },
+    "04102001af4903":{
+        "id":"soy_sauce_many",
+        "name":"醤油",
+        "event_id":"update_gs_inventory",
+        "cell":"C5",
+        "value":"あり",
+        "note":""
+    }
+}
